@@ -31,7 +31,7 @@ This is a maze game where the player can select between two difficulty levels: E
   The update_score() function updates and displays the player's current score and remaining lives.
 
 ## Tools & Technologies Used
-Python – Core programming language used to build the game logic and structure.
+Python – Core programming language used to build the game logic and structure. <br>
 Turtle Graphics (Python Library) – Used to render the maze, player movement, coins, and visual elements on screen.
 
 Live demo: https://youtu.be/Nn-JEjSi9jE?si=Kp6vvvjztQOzwHUH
