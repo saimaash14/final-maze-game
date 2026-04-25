@@ -1,4 +1,4 @@
-# final-maze-game
+# Final-Maze-Game
 
 ## Project Overview
 This is a maze game where the player can select between two difficulty levels: Easy and Hard. The goal is to navigate a turtle through a maze, avoid walls, collect coins, and reach the end of the maze. The game keeps track of the player's lives, score, and displays win/lose screens.
